@@ -77,7 +77,7 @@ namespace WpfAppIntroduktion.BIZ
                 listInt2.Add(randomTal);
             }
 
-            listInt2.Sort(); // Sort List  
+            listInt2.Sort(); // Sort List  er tilføjet 2. gang test
 
             for(int i = 0; i < listInt1.Count; i++)
             {

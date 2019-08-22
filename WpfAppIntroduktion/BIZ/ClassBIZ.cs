@@ -11,7 +11,7 @@ namespace WpfAppIntroduktion.BIZ
     {
         public ClassBIZ()
         {
-
+            // TEST Constructor
         }
 
         public void Delopgave12(ListBox listBox)
